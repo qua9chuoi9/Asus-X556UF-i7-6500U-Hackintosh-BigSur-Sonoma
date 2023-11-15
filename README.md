@@ -11,7 +11,7 @@ You can use Clover & Opencore from him, It's working fine.
 ### Install Note
 
 ---
-
+I'm install dualboot with Windows 10, Windows 11. For dualboot Trackpads in hackintosh working full fine.
 For Install Hackintosh BigsurOSX you use "EFI for Install Bigsur", afer setup completed, you can use EFI Bigsur for boot.
 Recommend: Download Image from Olarila and check SHA1 before burn:=> https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
 
