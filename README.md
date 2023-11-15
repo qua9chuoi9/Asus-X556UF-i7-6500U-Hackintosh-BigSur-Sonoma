@@ -13,6 +13,7 @@ You can use Clover & Opencore from him, It's working fine.
 ---
 
 For Install Hackintosh BigsurOSX you use "EFI for Install Bigsur", afer setup completed, you can use EFI Bigsur for boot.
+Recommend: Download Image from Olarila and check SHA1 before burn:=> https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
 
 ### Screenshot
 
@@ -36,12 +37,12 @@ For Install Hackintosh BigsurOSX you use "EFI for Install Bigsur", afer setup co
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Processor         | Intel Core i7 - 6500U                                                                                                                    |
 | Memory            | 1x 4 GB DDR4 1600 Mhz + 1x 8 GB DDR4 1600 Mhz                                                                                            |
-| Storage           | SSD Kingspec	P3-256  (238 GB) 240 GB                                                                                                        |
-| Video             | Integrated Intel HD 520 + NVIDIA 930M                                                                                                   |
-| Wi-Fi + Bluetooth | ~~Qualcomm Atheros 956x                                                                                         |
+| Storage           | SSD Kingspec	P3-256  (238 GB) 240 GB                                                                                                    |
+| Video             | Integrated Intel HD 520 + NVIDIA 930M                                                                                                    |
+| Wi-Fi + Bluetooth | ~~Qualcomm Atheros 956x                                                                                                             |
 | Ethernet          | Realtek RTL8111                                                                                                                          |
 | Audio             | Realtek ALC255                                                                                                                           |
-| Touchpad          | ELAN 1000 I2C HID Interface                                                                                                                  |
+| Touchpad          | ELAN 1000 I2C HID Interface                                                                                                              |
 | Screen Size       | 15,6 Inch                                                                                                                                |
 | Screen Resolution | 1920 x 1080                                                                                                                              |
 | Others            | 1x Card Reader, 1x WebCam, 1x VGA Port, 1x HDMI, 1x Combo Audio Jack, 1x USB 2.0, 1x USB 3.0 Type A, 1x USB 3.0 Type C, 1x Optical Drive |
@@ -58,7 +59,7 @@ For Install Hackintosh BigsurOSX you use "EFI for Install Bigsur", afer setup co
 
 ✅ Keyboard
 
-✅ Touchpad . (Not working in Sonoma)(in Bigsur Touchpad can working full if you delete VoodooI2CELAN.kext)
+✅ Touchpad . (Not working in Sonoma)
 
 ✅ Onboard Ethernet
 
