@@ -75,7 +75,7 @@ Recommend: Download Image from Olarila and check SHA1 before burn:=> https://www
 
 ✅ Restart, Sleep, Shutdown
 
-✅~~ ~~Wi-Fi and Bluetooth~~(not work on Bigsur and newer. I'm use USB wifi rtl8192eu and use this Driver [chris1111] https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter working fine in Sonoma & Bigsur)
+✅ Wifi and Bluetooth(Working on Bigsur but when connect bluetooth need turnoff wifi before, after connected bluetooth can turn on wifi normal. In Sonoma not work, so. I'm use USB wifi rtl8192eu and use this Driver [chris1111] https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter working fine in Sonoma & Bigsur)
 
 ### What Works (with Notes)
 
